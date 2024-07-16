@@ -35,7 +35,7 @@ function init() {
     },
     {
         type: `input`,
-        name: `why`,
+        name: `usage`,
         message: `why did you build this project`,
     },
     
@@ -48,7 +48,7 @@ function init() {
     {
         type: `input`,
         name: `problem`,
-        message: `what problem does it solve`,
+        message: `what problem does it solve?`,
 
     }, 
 
@@ -70,9 +70,10 @@ function init() {
         message: `list all collaborators and link to their gitHub profile`,
     },
     {
-        type: `input`,
+        type: `list`,
         name: `license`,
-        message: `what license did you use?`
+        message: `what license did you use?`,
+        choices:["MIT","BSD 3.0","APACHE 2.0","NONE"]
     },
     {
         type: `input`,
