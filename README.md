@@ -1,4 +1,4 @@
-# Professional README.md Generator
+# README.md Generator
 
 ![github licence](https://img.shields.io/badge/licence-MIT-pink.svg)
   ### Table of Contents
@@ -15,19 +15,22 @@
 
   ## Description
 
-  To create a professional README.md file for my repository
+  It is a professional READNME.md file which is a requirement for a professional repo
 
   ## Instalation
 
-  Creating a new repository, creating a package.json, writing some codes in index.js and generateMarkdown.js file 
+  Just open the integrated terminal in the repository and type node index.js
+
+  ## Usage 
+ To show how the professional README.md sould be done for repositories
 
   ## Problem
 
-  It does show a professional, well desinged README.md file which is a requirement for every repository
+  It is a well delvelop way to show the purpose of the project 
 
   ## Test
 
-  No
+  N/A
 
   ## Contributors 
 
@@ -35,5 +38,5 @@
 
   ## Questions
 
-  if you have any questions email me Lilly888_ebadi@yahoo.com check out more of my code@ EbLily (EbLily)
+  if you have any questions email me Lilly888_ebadi@yahoo.com check out more of my code@ EbLily
 
